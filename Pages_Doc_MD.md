@@ -10,7 +10,7 @@ Customization: Users can apply themes and templates to customize the look and fe
 Sites are accessible via a GitHub-provided URL (e.g., `username.github.io`) or a custom domain.
 
 Example: 
-> 
+> ![screenshot of example GitHub Page](ilx3_screenshot2)
 
 
 ## GitHub Docs
