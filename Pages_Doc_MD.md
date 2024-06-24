@@ -10,8 +10,7 @@ Customization: Users can apply themes and templates to customize the look and fe
 Sites are accessible via a GitHub-provided URL (e.g., `username.github.io`) or a custom domain.
 
 Example: 
-> ![screenshot of example GitHub Page](ilx3_screenshot1.png)
-
+> <img src="ilx3_screenshot1.png" alt="screenshot of example GitHub Page" width=1000)>
 
 ## GitHub Docs
 Purpose: Refers to content; documentation, either GitHub’s own or user-generated, hosted within GitHub repositories. It’s more about the content and organization of documentation.
