@@ -1,6 +1,6 @@
 # The difference between Git and GitHub
 ## Git
-<img src="https://github.com/MSherlock33/ilx3/assets/173152408/64281344-5ad8-4c06-8bfb-6b6ff2111d76" alt="Git logo" width=100)>
+<img src="Git-Icon-1788C.png" alt="Git logo" width=100)>
 
 *Definition*: Git is the version control system that runs locally on a machine.
 
@@ -12,7 +12,7 @@
 
 
 ## GitHub
-<img src="https://github.com/MSherlock33/ilx3/assets/173152408/3211969e-6c9e-4f12-9477-decb49c2474f" alt="GitHub logo of invertocat" width=100)>
+<img src="github-mark.png" alt="GitHub logo of invertocat" width=100)>
 
 *Definition*: GitHub is a cloud-based hosting service for Git repositories (infrastructure around git).
 
